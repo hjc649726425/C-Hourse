@@ -1,0 +1,5 @@
+F:\CsharpWorkSpace\SJMS\SJMS-StructType\bin\Release\SJMS-StructType.exe.config
+F:\CsharpWorkSpace\SJMS\SJMS-StructType\bin\Release\SJMS-StructType.exe
+F:\CsharpWorkSpace\SJMS\SJMS-StructType\bin\Release\SJMS-StructType.pdb
+F:\CsharpWorkSpace\SJMS\SJMS-StructType\obj\Release\SJMS-StructType.exe
+F:\CsharpWorkSpace\SJMS\SJMS-StructType\obj\Release\SJMS-StructType.pdb

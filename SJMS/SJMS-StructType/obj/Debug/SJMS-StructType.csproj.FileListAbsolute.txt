@@ -1,0 +1,6 @@
+F:\CsharpWorkSpace\SJMS\SJMS-StructType\bin\Debug\SJMS-StructType.exe.config
+F:\CsharpWorkSpace\SJMS\SJMS-StructType\bin\Debug\SJMS-StructType.exe
+F:\CsharpWorkSpace\SJMS\SJMS-StructType\bin\Debug\SJMS-StructType.pdb
+F:\CsharpWorkSpace\SJMS\SJMS-StructType\obj\Debug\SJMS-StructType.exe
+F:\CsharpWorkSpace\SJMS\SJMS-StructType\obj\Debug\SJMS-StructType.pdb
+F:\CsharpWorkSpace\SJMS\SJMS-StructType\obj\Debug\SJMS-StructType.csprojResolveAssemblyReference.cache

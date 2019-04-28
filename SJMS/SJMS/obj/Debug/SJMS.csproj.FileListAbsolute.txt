@@ -1,0 +1,6 @@
+F:\CsharpWorkSpace\SJMS\SJMS\bin\Debug\SJMS.exe.config
+F:\CsharpWorkSpace\SJMS\SJMS\bin\Debug\SJMS.exe
+F:\CsharpWorkSpace\SJMS\SJMS\bin\Debug\SJMS.pdb
+F:\CsharpWorkSpace\SJMS\SJMS\obj\Debug\SJMS.exe
+F:\CsharpWorkSpace\SJMS\SJMS\obj\Debug\SJMS.pdb
+F:\CsharpWorkSpace\SJMS\SJMS\obj\Debug\SJMS.csprojResolveAssemblyReference.cache
