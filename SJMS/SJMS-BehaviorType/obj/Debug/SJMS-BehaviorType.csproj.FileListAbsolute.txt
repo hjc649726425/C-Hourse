@@ -12,10 +12,8 @@ F:\MyGitBranch\C-Hourse\SJMS\SJMS-BehaviorType\obj\Debug\SJMS-BehaviorType.pdb
 F:\MyGit\C-Hourse\SJMS\SJMS-BehaviorType\bin\Debug\SJMS-BehaviorType.exe.config
 F:\MyGit\C-Hourse\SJMS\SJMS-BehaviorType\obj\Debug\SJMS-BehaviorType.exe
 F:\MyGit\C-Hourse\SJMS\SJMS-BehaviorType\obj\Debug\SJMS-BehaviorType.pdb
-<<<<<<< HEAD
 F:\MyGit\C-Hourse\SJMS\SJMS-BehaviorType\bin\Debug\SJMS-BehaviorType.exe
 F:\MyGit\C-Hourse\SJMS\SJMS-BehaviorType\bin\Debug\SJMS-BehaviorType.pdb
 F:\MyGit\C-Hourse\SJMS\SJMS-BehaviorType\obj\Debug\SJMS-BehaviorType.csprojResolveAssemblyReference.cache
-=======
 >>>>>>> 8fa6fa9389496f3a9f72c6d2bb5844e691451e93
 >>>>>>> a87187895bcb81beb92ddc71d7a3f739ae5bffa4
