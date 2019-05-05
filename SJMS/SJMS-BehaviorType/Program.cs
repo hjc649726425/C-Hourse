@@ -18,8 +18,8 @@ namespace SJMS_BehaviorType
             //Iterator.DoMain();
             //Command.DoMain();
             //Mediator.DoMain();
-            State.DoMain();
-           
+            //State.DoMain();
+            Responsibility.DoMain();
 
             Console.Read();
         }
