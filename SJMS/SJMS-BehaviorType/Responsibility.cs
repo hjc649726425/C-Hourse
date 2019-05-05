@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SJMS_BehaviorType
 {
-    //责任链模式
+    //责任链模式 123
     //使多个对象都有机会处理请求，从而避免请求的发送者和接收者之间的耦合关系。将这些对象连成一条链，
 
     class Responsibility
