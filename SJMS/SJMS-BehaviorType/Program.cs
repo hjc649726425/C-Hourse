@@ -17,8 +17,9 @@ namespace SJMS_BehaviorType
             //TemplateMethod.DoMain();
             //Iterator.DoMain();
             //Command.DoMain();
-
-            Mediator.DoMain();
+            //Mediator.DoMain();
+            State.DoMain();
+           
 
             Console.Read();
         }
